@@ -1,0 +1,3 @@
+C:/Users/corne/CLionProjects/InventorySystem/cmake-build-debug/CMakeFiles/InventorySystem.dir
+C:/Users/corne/CLionProjects/InventorySystem/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/corne/CLionProjects/InventorySystem/cmake-build-debug/CMakeFiles/rebuild_cache.dir

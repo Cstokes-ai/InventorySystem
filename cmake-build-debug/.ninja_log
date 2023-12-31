@@ -1,0 +1,8 @@
+# ninja log v5
+3	168	7255846266896938	CMakeFiles/InventorySystem.dir/main.c.obj	f1bc985e79428c12
+170	366	7255846268764970	InventorySystem.exe	fd3a3ff49785620
+4	347	7256861780367816	build.ninja	53d67532f6f3e8b8
+3	246	7256861784697077	CMakeFiles/InventorySystem.dir/main.c.obj	f1bc985e79428c12
+247	665	7256861788842847	InventorySystem.exe	fd3a3ff49785620
+2	144	7256867912671141	CMakeFiles/InventorySystem.dir/main.c.obj	f1bc985e79428c12
+145	306	7256867914247610	InventorySystem.exe	fd3a3ff49785620
